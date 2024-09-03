@@ -72,7 +72,6 @@ export function CyclesContentProvider({
     setActiveCycleId(id)
     setActiveCycleTask(data.task)
     setAmountSecondsPassed(0)
-    // reset()
   }
 
   function interruptCurrentCycle() {
